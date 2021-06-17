@@ -1,5 +1,8 @@
-# IPFS LinkTO
-## 2021-06-17
+# 2021-06-17
+
+-----
+
+## IPFS LinkTO
   
   - See
   https://ipfs.io/ipfs/QmRiY7YGmtobTHDjckXooKNhQrBh2RsA9BYkLUj2Njrjks
@@ -7,7 +10,7 @@
   - For
   Medical Records Repository
 
------
+## Notes (2021-06-17_1227)
 
 As of 2021-06-17 (Initial Commit)
   - I plan to
@@ -17,9 +20,9 @@ As of 2021-06-17 (Initial Commit)
   Currently my ENS address is in use solely for direction of ETH based transactions. 
   As an address, to the registered addresses. For the ENS domain registry.
 
-# LICENSE
-
 -----
+
+# LICENSE
 
 ```js
 IPFS - 2021-06-17 IPFS LinkTO.md
