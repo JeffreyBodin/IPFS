@@ -6,13 +6,17 @@
 
 Jeffrey Thomas Bodin
 
-▶ IPFS Global Scoped Repo
+- Is
+  
+  ▶ IPFS Global Scoped Repo
+  
+  ▶ For integrations thru ➡ Ethereum-Name-Service
 
-▶ For integrations thru ➡ Ethereum-Name-Service
+FIRST Example
 
-FIRST Example is
-
-▶ Medical Records IPFS Repo
+- Is
+  
+  ▶ Medical Records IPFS Repo
 
 
 -----
