@@ -5,10 +5,13 @@
 ## 2021-06-17_1239
 
 Jeffrey Thomas Bodin
+
 ▶ IPFS Global Scoped Repo
+
 ▶ For integrations thru ➡ Ethereum-Name-Service
 
 FIRST Example is
+
 ▶ Medical Records IPFS Repo
 
 
