@@ -130,7 +130,7 @@
       "2022-04-05 Pinata-2ndG-API": {
         "API": {
           "Endpoint": "https://api.pinata.cloud/psa",
-          "Key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiIzNmI1MzQwZS0wOTg5LTQ5ZDUtYTQyMy05YTY5ZTAyMGJjZDIiLCJlbWFpbCI6ImplZmZyZXlib2RpbjcxM0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwicGluX3BvbGljeSI6eyJyZWdpb25zIjpbeyJpZCI6Ik5ZQzEiLCJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MX1dLCJ2ZXJzaW9uIjoxfSwibWZhX2VuYWJsZWQiOmZhbHNlfSwiYXV0aGVudGljYXRpb25UeXBlIjoic2NvcGVkS2V5Iiwic2NvcGVkS2V5S2V5IjoiZTdjMWYzNWIwY2QxMzNlYzNkMWUiLCJzY29wZWRLZXlTZWNyZXQiOiI0MjgxYjZjYzVlMDljMTJhZTMzMWNhMzNjMTFmYmNiODE2Y2MyZjEzOGFkODI3N2YxYjZjYzcyNTlkNmJhNThiIiwiaWF0IjoxNjQ5MTQ3NTM3fQ.Ad4p2Potf_NtoKGPbCmHlh0Rorp2RfzRPqZIK7qpc80"
+          "Key": ""
         },
         "Policies": {
           "MFS": {
